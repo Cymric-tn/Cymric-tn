@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-07T17:45:00Z",
+  "battery_voltage": 12.1,
+  "channels": [
+    {
+      "id": 1,
+      "name": "Lighting",
+      "voltage": 12.05,
+      "current": 1.42,
+      "power": 17.1,
+      "energy_Wh": 42.7,
+      "status": "ON"
+    },
+    {
+      "id": 2,
+      "name": "Fan",
+      "voltage": 11.98,
+      "current": 0.87,
+      "power": 10.4,
+      "energy_Wh": 25.3,
+      "status": "ON"
+    },
+    {
+      "id": 3,
+      "name": "Pump",
+      "voltage": 12.08,
+      "current": 2.35,
+      "power": 28.4,
+      "energy_Wh": 51.9,
+      "status": "OFF"
+    },
+    {
+      "id": 4,
+      "name": "Aux",
+      "voltage": 11.90,
+      "current": 0.35,
+      "power": 4.2,
+      "energy_Wh": 13.8,
+      "status": "ON"
+    }
+  ]
+}
