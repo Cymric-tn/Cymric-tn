@@ -29,3 +29,4 @@ for _ in range(5):  # refresh 5 times for demo
         cols[1].plotly_chart(px.bar(df, x="Channel", y="Voltage (V)", title="Voltage"))
         cols[2].plotly_chart(px.bar(df, x="Channel", y="Current (A)", title="Current"))
     time.sleep(1)
+print("hello")
